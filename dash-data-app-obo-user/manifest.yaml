@@ -1,9 +1,0 @@
-version: 1
-name: "data-template-app"
-description: "The dash template data app"
-
-resource_specs:
-  - name: "sql-warehouse"
-    description: "SQL warehouse for data processing"
-    sql_warehouse_spec:
-      permission: "CAN_USE"
